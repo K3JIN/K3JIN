@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kshitij
 - 👀 I’m interested in Flutter, Rust and Blender
 - 🌱 I’m currently learning blender
-- 💞️ Working in NGQ
 - 📫 How to reach me "kshitijupadhyay6867@gmail.com"
 
 <!---
